@@ -1,4 +1,4 @@
-package regexp
+package dregexp
 
 import "testing"
 
